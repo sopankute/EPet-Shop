@@ -1,0 +1,2 @@
+What is JUnit in java?
+- JUnit is a unit testing open-source framework for the Java programming language. Java Developers use this framework to write and execute automated tests
